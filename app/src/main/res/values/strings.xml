@@ -20,4 +20,5 @@
     <string name="seconds_to_hold">Seconds to hold</string>
     <string name="checkedtextview">CheckedTextView</string>
     <string name="estimated_intensity">Estimated intensity</string>
+    <string name="back_to_all_settings">Back to all settings</string>
 </resources>
